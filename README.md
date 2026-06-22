@@ -59,7 +59,7 @@ This artifact package includes both the original and enhanced versions of my CS 
 
 This artifact package includes both the original and enhanced versions of my CS 340 Animal Shelter Dashboard. The enhanced version improves database connection setup, environment variable support, CRUD validation, filtering, and handling for missing or unavailable data.
 
-* [Narrative: Databases](narratives/CS-499-Milestone-Four-Narrative.docx)
+* [Narrative: Databases](narratives/CS-499%20Milestone-Four-Narrative.docx)
 * [Original and Enhanced Artifact Package](artifacts/CS-340-Animal-Shelter-Dashboard.zip)
 
 ## Artifacts and Narratives
