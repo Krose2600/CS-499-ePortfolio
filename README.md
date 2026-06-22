@@ -1,5 +1,7 @@
 # CS 499 Computer Science ePortfolio
 
+[Download Professional Self-Assessment](self-assessment/Professional%20Self-Assessment%20cs%20499.docx)
+
 Welcome to my CS 499 Computer Science capstone ePortfolio. This portfolio represents my growth throughout the Computer Science program and includes my professional self-assessment, code review, enhanced artifacts, and narratives for each enhancement category.
 
 ## Professional Self-Assessment
