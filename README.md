@@ -35,30 +35,30 @@ View Code Review Video:(https://youtu.be/Lvb5XuVwkb4?si=wKfHNP3jW-x22ysB))
 **Artifact:** CS 230 Project One Game App
 **Category:** Software Design and Engineering
 
-This artifact is a Java game service application that manages games, teams, and players. I enhanced this project by improving validation, encapsulation, inheritance, singleton design, and overall maintainability.
+This artifact package includes both the original and enhanced versions of my CS 230 Game App. The enhanced version improves validation, encapsulation, inheritance, singleton design, and overall maintainability.
 
-Narrative: Software Design and Engineering
-Original and Enhanced Artifact Package
+* [Narrative: Software Design and Engineering](narratives/CS-499-Milestone-Two-Narrative.docx)
+* [Original and Enhanced Artifact Package](artifacts/CS-230-Game-App.zip)
 
 ## Enhancement Two: Algorithms and Data Structures
 
 **Artifact:** CS 300 Project Two Advising Program
 **Category:** Algorithms and Data Structures
 
-This artifact is a course advising program that loads course data, stores course information, sorts courses, and allows users to search for course details. I enhanced this project by improving file validation, prerequisite checking, menu input handling, search flexibility, and code organization.
+This artifact package includes both the original and enhanced versions of my CS 300 Advising Program. The enhanced version improves file validation, prerequisite checking, menu input handling, search flexibility, and code organization.
 
-Narrative: Algorithms and Data Structures
-Original and Enhanced Artifact Package
+* [Narrative: Algorithms and Data Structures](narratives/CS-499-Milestone-Three-Narrative.docx)
+* [Original and Enhanced Artifact Package](artifacts/CS-300-Advising-Program.zip)
 
 ## Enhancement Three: Databases
 
 **Artifact:** CS 340 Animal Shelter Dashboard
 **Category:** Databases
 
-This artifact is a dashboard connected to MongoDB that displays animal shelter data in a table, chart, and map. I enhanced this project by improving the database connection setup, adding environment variable support, strengthening CRUD validation, improving filtering, and making the dashboard safer when data is missing or unavailable.
+This artifact package includes both the original and enhanced versions of my CS 340 Animal Shelter Dashboard. The enhanced version improves database connection setup, environment variable support, CRUD validation, filtering, and handling for missing or unavailable data.
 
-Narrative: Databases
-Original and Enhanced Artifact Package
+* [Narrative: Databases](narratives/CS-499-Milestone-Four-Narrative.docx)
+* [Original and Enhanced Artifact Package](artifacts/CS-340-Animal-Shelter-Dashboard.zip)
 
 ## Artifacts and Narratives
 
